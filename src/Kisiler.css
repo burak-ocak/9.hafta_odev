@@ -1,0 +1,18 @@
+.icerik{
+    display: flex;
+    flex: start;
+    padding: 10px;
+    align-items: center;
+    height: 90px;
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.pr{
+    padding-left: 20px;
+    
+}

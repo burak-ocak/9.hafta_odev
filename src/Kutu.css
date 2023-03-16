@@ -1,0 +1,19 @@
+.kokEtiket{
+    width: 600px;
+    background-color: white;
+    margin: auto;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.btn{
+    border: none;
+    background-color: rgb(136, 99, 106);
+    width: 300px;
+    color: white;
+    height: 50px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    font-size: large;
+    font-weight: bolder;
+}
